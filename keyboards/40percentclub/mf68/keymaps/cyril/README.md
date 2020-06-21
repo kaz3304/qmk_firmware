@@ -1,5 +1,9 @@
 A custom-pcb keyboard project using the MagicForce 68 layout, powered by a "pro micro" atmega32u4
 
+**Bootloader configuration info (config.h):**  
+- k00 \[Esc\] as dfu-escape key  
+- k14 \[Backspace\] as plug-to-bootloader key  
+
 ![Imgur](https://i.imgur.com/CJMMnIm.jpg)
 
 Originally covered (thoroughly) by [40percent.club](http://www.40percent.club/search?q=mf68) and [68keys.io](http://www.68keys.io)  
