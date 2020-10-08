@@ -10,6 +10,7 @@ MCU = atmega32u4
 #   ATmega32A    bootloadHID
 #   ATmega328P   USBasp
 BOOTLOADER = qmk-dfu
+LTO_ENABLE = yes
 
 # Build Options
 #   change yes to no to disable
