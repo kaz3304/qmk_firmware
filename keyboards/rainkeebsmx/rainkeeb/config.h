@@ -49,3 +49,5 @@
 #define ENCODERS_PAD_A { B2 }
 #define ENCODERS_PAD_B { B6 }
 #define ENCODER_RESOLUTION 4
+
+#define VIAL_KEYBOARD_UID {0xB8, 0x73, 0x43, 0x84, 0x82, 0xD2, 0xE3, 0x85}

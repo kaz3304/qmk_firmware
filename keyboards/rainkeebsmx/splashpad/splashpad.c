@@ -1,0 +1,1 @@
+#include "splashpad.h"
